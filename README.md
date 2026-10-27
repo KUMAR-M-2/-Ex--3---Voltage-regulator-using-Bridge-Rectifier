@@ -23,8 +23,8 @@ S.No	Components/Software	Specification
 13	Ground Terminal	-
 
 **Circuit Diagram**
+<img width="1085" height="485" alt="image" src="https://github.com/user-attachments/assets/9c47d01c-20d0-4d85-ac1c-65783db9ec43" />
 
-(Insert the Proteus circuit diagram here.)
 
 **Theory**
 
@@ -112,7 +112,7 @@ Record the regulated output voltage and compare it with the expected value.
 
 **Output**
 
-(Insert the Proteus output diagram here.)
+<img width="1526" height="971" alt="image" src="https://github.com/user-attachments/assets/cd06b573-b4f1-4f5c-b1df-5ba803e80995" />
 
 **Result**
 
